@@ -39,7 +39,7 @@ hr {
 
 .fe.title {
 
-background-image: url("https://uploads-ssl.webflow.com/5c34eab9a3cd45767d571354/5ec6e59a1ecb592cc3e7594a_bg-bar-1.svg");
+background-image: url("https://raw.githubusercontent.com/joepacal/kistorm-copypasta/master/assets/bg-bar-blue.svg");
 
   background-repeat: no-repeat;
   background-size: initial;
@@ -51,11 +51,11 @@ background-image: url("https://uploads-ssl.webflow.com/5c34eab9a3cd45767d571354/
 
 .fe.logo {
 
-  background-color: #ECF4F7;
+  background-color: #fff;
   border-radius: 100rem;
 
-  width: 140px;
-  height: 82px;
+  width: 64px;
+  height: 64px;
 
   padding: 0.5rem 1rem 0.5rem 1rem;
 
