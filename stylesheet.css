@@ -18,9 +18,8 @@ hr {
 
 .fe.intro {
 
-  background-image: url(https://raw.githubusercontent.com/joepacal/kistorm-fe/master/assets/bg-blob-1.svg);
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-color: #F2FAFD;
+  border-radius: 0.5rem;
   
 }
 
