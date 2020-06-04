@@ -16,7 +16,7 @@ hr {
 
 .fe.intro {
 
-  background-image: url(https://raw.githubusercontent.com/joepacal/kistorm-copypasta/master/assets/bg-blob-1.svg);
+  background-image: url(https://raw.githubusercontent.com/joepacal/kistorm-fe/master/assets/bg-blob-1.svg);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   
@@ -39,7 +39,7 @@ hr {
 
 .fe.title {
 
-background-image: url("https://raw.githubusercontent.com/joepacal/kistorm-copypasta/master/assets/bg-bar-blue.svg");
+background-image: url("https://raw.githubusercontent.com/joepacal/kistorm-fe/master/assets/bg-bar-blue.svg");
 
   background-repeat: no-repeat;
   background-size: initial;
