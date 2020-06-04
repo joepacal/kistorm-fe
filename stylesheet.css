@@ -30,10 +30,8 @@ hr {
   justify-content: space-between;
   align-items: center;
 
-  background-image: url("https://uploads-ssl.webflow.com/5c34eab9a3cd45767d571354/5ec6e960313549020f1c569f_bg-blob-1.svg");
-
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-color: #F2FAFD;
+  border-radius: 0.5rem;
 
   min-height: 20vh;
 
