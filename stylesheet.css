@@ -57,10 +57,10 @@ background-image: url("https://raw.githubusercontent.com/joepacal/kistorm-fe/mas
   background-color: #fff;
   border-radius: 100rem;
 
-  width: 56px;
-  height: 56px;
+  width: 64px;
+  height: 64px;
 
-  padding: 1rem;
+  padding: 0.5rem;
   margin: 0.5rem 1rem 0.5rem 2rem;
 
 }
