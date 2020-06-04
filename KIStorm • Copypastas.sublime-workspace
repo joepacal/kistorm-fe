@@ -1,0 +1,206 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n<!-- KIStorm copypastas -->\n\n<style>\n.gya {padding-top:0em;}\n\n.gya.header {\n\n  display: flex;\n  flex-direction: row;\n  flex-wrap: wrap;\n  justify-content: space-between;\n  align-items: center;\n\n  background-image: url(\"https://uploads-ssl.webflow.com/5c34eab9a3cd45767d571354/5ec6e960313549020f1c569f_bg-blob-1.svg\");\n\n  background-repeat: no-repeat;\n  background-size: 100% 100%;\n\n  min-height: 20vh;\n\n}\n\n.gya.title {\n\nbackground-image: url(\"https://uploads-ssl.webflow.com/5c34eab9a3cd45767d571354/5ec6e59a1ecb592cc3e7594a_bg-bar-1.svg\");\n\n  background-repeat: no-repeat;\n  background-size: initial;\n\n  padding: 0rem 2rem 2rem 3rem;\n  margin: 1rem 2rem 0 2rem;\n\n}\n\n.gya.logo {\n\n  background-color: #ECF4F7;\n  border-radius: 100rem;\n\n  width: 140px;\n  height: 82px;\n\n  padding: 0.5rem 1rem 0.5rem 1rem;\n\n}\n\n.gya.video {\n\n  max-width: 600px;\n\n  padding: 2rem 1rem; \n\n  background-image: url(\"https://uploads-ssl.webflow.com/5c34eab9a3cd45767d571354/5ec6e59a1ecb592cc3e7594a_bg-bar-1.svg\");\n  background-repeat: no-repeat;\n  background-size: initial;\n  background-position: right bottom;\n\n}\n\n.videoWrapper {\n  position: relative;\n  padding-bottom: 56.25%; /* 16:9 */\n  height: 0;\n}\n.videoWrapper iframe {\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n}\n\n.gya.list {\n\n  display: inline-block;\n  padding: 1rem 2rem 1rem 1.5rem;\n  margin: 0.5rem;\n\n  background-image: url(\"https://uploads-ssl.webflow.com/5c34eab9a3cd45767d571354/5ec6f1f7deac6249117a8ec1_ico-arrow.svg\");\n  background-repeat: no-repeat;\n  background-position: right 0.5rem bottom 50%;\n\n  background-color: #fafafa;\n  border-radius: 0.5rem;\n\n  -moz-box-shadow:  0px 2px 4px 0px rgba(0,0,0,0.25);\n  -webkit-box-shadow:  0px 2px 4px 0px rgba(0,0,0,0.25);\n  box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.25);\n\n  transition: 200ms;\n  cursor: pointer;\n\n}\n\n.gya.list:hover {\n\n  background-color: #fafafa;\n\n  -moz-box-shadow: 0px 2px 10px 0px #ccc;\n  -webkit-box-shadow: 0px 2px 10px 0px #ccc;\n  box-shadow: 0px 2px 10px 0px #ccc;\n \n  text-decoration: underline;\n\n}\n\n\n.gya.row {\n\n  display: inline-block;\n  width: 100%\n  margin: 1rem;\n  padding: 1rem;\n\n}\n\n</style>\n\n\n<!-- END STYLESHEET -->\n<!-- START COPYPASTAS -->\n\n\n<!-- HEADER -->\n\n<div class=\"gya header\">\n   <div class=\"gya title\">\n     <h4>🗓 Agenda</h4>\n   </div>\n   <img class=\"gya logo\" src=\"https://uploads-ssl.webflow.com/5c34eab9a3cd45767d571354/5ec6d82c45468432a821856a_logo-gya-color.svg\">\n</div>\n\n<!-- ROW -->\n\n<div class=\"gya row\">\n  <center>\n     <font size=\"5\">Here's the general timing agenda for the workshop:</font>\n     <img src=\"https://inclusiveinnovation.org/wp-content/uploads/2020/05/GYA-Agenda-West-East-Timing.png\" style=\"max-width: 80%;\">\n  </center>\n</div>\n\n<!-- AGENDA -->\n\n<div class=\"gya row\">\n  <center>\n     <font size=\"5\">Here's the general timing agenda for the workshop:</font>\n     <img src=\"https://inclusiveinnovation.org/wp-content/uploads/2020/05/GYA-Agenda-West-East-Timing.png\" style=\"max-width: 80%;\">\n  </center>\n</div>\n\n\n\n<!-- HOMEPAGE -->\n\n<div class=\"gya intro\">\n\n<center>\n<h3 class=\"title\"><b>Welcome to the</b><br><img class=\"welcome-header\" src=\"https://uploads-ssl.webflow.com/5c34eab9a3cd45767d571354/5ec6d82c45468432a821856a_logo-gya-color.svg\"><br><b>New Member Workshop</b></h3>\n</center><br>\n\n<div class=\"row tasks\">\n  <div class=\"task grow col-xs-12 col-sm-3\"><center>\n\n<a href=\"https://kistorm.com/account\"><img src=\"https://uploads-ssl.webflow.com/5c34eab9a3cd45767d571354/5ec6d82a893149f739114996_ico-idCard.svg\"></a><p><b>Tell us about yourself</b>.</p></center><p></p>To do this, visit <a href=\"https://kistorm.com/account\"><strong>My Account</strong></a>. You can also find your account settings by clicking on the My Account link in the bottom left hand corner of the screen. <i>If you are using a phone to access the site please click the menu symbol in the top left hand corner of your screen.</i></div> \n\n  <div class=\"task grow col-xs-12 col-sm-3\"><center>\n<a href=\"https://kistorm.com/-M6Pr8pFgGF-uPp1k97W/eventMembers\">\n<img src=\"https://uploads-ssl.webflow.com/5c34eab9a3cd45767d571354/5ec6d82a454684046c218554_ico-members.svg\"></a><p><b>Who else is here?</b></p></center><p></p> Click on the <a href=\"https://kistorm.com/-M6Pr8pFgGF-uPp1k97W/eventMembers\"><strong>Members</strong></a> link in the menu to see the other participants in the new member workshop.</div>\n\n\n<div class=\"task grow col-xs-12 col-sm-3\"><center><a href=\"https://kistorm.com/-M6Pr8pFgGF-uPp1k97W/-M6QTFTMVd1WpzqMyEmC\"><img src=\"https://uploads-ssl.webflow.com/5c34eab9a3cd45767d571354/5ec6d82b45395ebc8f3228d7_ico-resources.svg\"></a><p><b>Background resources</b>.</p></center><p></p>Get up to speed on any articles or pre-reading to help you prepare for the workshop. Check out the <a href=\"https://kistorm.com/-M6Pr8pFgGF-uPp1k97W/-M6QTFTMVd1WpzqMyEmC\"><b>Resources</b></a> page.&nbsp; &nbsp;</div> \n\n\n  <div class=\"task  col-xs-12 col-sm-3\"><center><img src=\"https://uploads-ssl.webflow.com/5c34eab9a3cd45767d571354/5ec6d82a1ecb5951f7e6bbab_ico-questions.svg\"><p><b>Tech support</b>.</p></center><p></p> <p>Be sure you've downloaded the Zoom client on your computer, or that you're using the Zoom app on a device.</p>\n<p><a href=\"https://zoom.us/test\" target=\"_blank\"><strong>Test Zoom</strong></a></p>\n <p>Use <a href=\"https://support.zoom.us/hc/en-us/categories/200101697\" target=\"_blank\"><strong>this guide</strong></a> to help troubleshoot any issues.</p>\n</div>\n</div>\n<center><a href=\"https://join.slack.com/t/gyanewmemberslp/shared_invite/zt-etnvlw4w-KdeRVgAx_r2P~Q~0zL0kLw\" target=\"_blank\"><img class=\"slack\" src=\"https://inclusiveinnovation.org/wp-content/uploads/2020/05/slack-color-logo.png?alt=media&amp;\"></a><br><br><div><font size=\"3\">Also, please join our <a href=\"https://join.slack.com/t/gyanewmemberslp/shared_invite/zt-etnvlw4w-KdeRVgAx_r2P~Q~0zL0kLw\" target=\"_blank\"><b>Slack community</b></a> to keep the conversation going.</font></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div></center>\n\n\n</div>\n\n\n\n\n<!-- END COPYPASTAS -->",
+			"file": "/Users/joe/Dropbox/!WORK/Projects/KI:II • GYA • 2020/Research/KIStorm • Copypastas.html",
+			"file_size": 30,
+			"file_write_time": 132347921967156575,
+			"settings":
+			{
+				"buffer_size": 6060,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/joe/Dropbox/!WORK/Projects/KI:II • GYA • 2020/Research/KIStorm • Copypastas.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6060,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2998,
+								2998
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1745.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "KIStorm • Copypastas.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
