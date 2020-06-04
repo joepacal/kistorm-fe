@@ -131,7 +131,7 @@ background-image: url("https://raw.githubusercontent.com/joepacal/kistorm-fe/mas
 .fe.row {
 
   display: block;
-  width: 100%;
+  width: auto;
   margin: 1.5rem 1rem 2rem 1rem;
   padding: 1rem;
 
