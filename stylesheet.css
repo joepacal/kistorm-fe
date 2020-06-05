@@ -138,3 +138,12 @@ background-image: url("https://raw.githubusercontent.com/joepacal/kistorm-fe/mas
   padding: 1rem;
 
 }
+
+
+.avatar {
+
+  display: inline-block;
+  width: 10rem;
+  height: 10rem;
+
+}
