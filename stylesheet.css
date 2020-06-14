@@ -165,3 +165,18 @@ background-image: url("https://raw.githubusercontent.com/joepacal/kistorm-fe/mas
   text-align: center;
 
 }
+
+
+body.screen--xs .varicols {
+    column-count: 1;
+  }
+  body.screen--sm .varicols {
+    column-count: 2;
+  }
+  body.screen--md .varicols {
+    column-count: 4;
+  }
+  body.screen--lg .varicols {
+    column-count: 6;
+  }
+
