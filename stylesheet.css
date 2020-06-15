@@ -170,13 +170,17 @@ background-image: url("https://raw.githubusercontent.com/joepacal/kistorm-fe/mas
 body.screen--xs .varicols {
     column-count: 1;
   }
-  body.screen--sm .varicols {
-    column-count: 2;
-  }
-  body.screen--md .varicols {
-    column-count: 4;
-  }
-  body.screen--lg .varicols {
-    column-count: 6;
-  }
+body.screen--sm .varicols {
+  column-count: 2;
+}
+body.screen--md .varicols {
+  column-count: 4;
+}
+body.screen--lg .varicols {
+  column-count: 6;
+}
+
+body.screen--xl .varicols {
+column-count: 6;
+}
 
