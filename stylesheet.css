@@ -193,7 +193,7 @@ column-count: 6;
 }
 
 .tim:hover {
-  transform: scale(6.1);
+  transform: scale(0.61);
   z-index: 3;
 }
 
