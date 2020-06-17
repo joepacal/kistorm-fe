@@ -190,5 +190,7 @@ column-count: 6;
   margin: 0.5rem;
   width:142px;
 
+  img:hover{transform: scale(6.1);}
+
 }
 
