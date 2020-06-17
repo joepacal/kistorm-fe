@@ -184,3 +184,10 @@ body.screen--xl .varicols {
 column-count: 6;
 }
 
+.tim {
+
+  display: inline-block;
+  margin: 0.5rem;
+
+}
+
